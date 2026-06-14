@@ -1,6 +1,6 @@
-//Reversing the string
-function reverseString(str){
-    let arr = str.split("");
+//Reversing the Array
+
+function reverseArray(arr){
     let n = arr.length;
     let start = 0;
     let end = n-1;
@@ -13,8 +13,9 @@ function reverseString(str){
         end--;
     }
 
-    return arr.join("");
+    return arr;
 }
 
-let revStr = reverseString('Hello');
-console.log(revStr);
+let arr = [1,2,3,4,5];
+let revArr = reverseArray(arr);
+console.log(revArr);
