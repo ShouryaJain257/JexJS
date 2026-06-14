@@ -1,7 +1,7 @@
 # JexJS
 # ⚡ JexJS
 
-> <font color = "#1D9BF0">A JavaScript interpreter written from scratch in pure Java — no external libraries, no Node.js, no JS engine. Just Java.</font>
+> ![](https://img.shields.io/badge/A_JS_interpreter_in_pure_Java-1D9BF0?style=flat)
 ---
 
 ## 🏗️ Architecture
