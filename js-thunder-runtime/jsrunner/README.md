@@ -1,8 +1,7 @@
-# ⚡ JS Thunder Runtime
+# JexJS
+# ⚡ JexJS
 
-> A JavaScript interpreter written from scratch in pure Java — no external libraries, no Node.js, no JS engine. Just Java.
-
-Built for **Thunder Hackathon 2.0: Build Your Own JavaScript**.
+> ![](https://img.shields.io/badge/A_JS_interpreter_in_pure_Java-1D9BF0?style=flat)
 
 ---
 
@@ -212,4 +211,4 @@ jsrunner/
 
 ---
 
-*Thunder Hackathon 2.0 — Built with ⚡ by [Your Name]*
+*Built with ⚡ by Shourya*
