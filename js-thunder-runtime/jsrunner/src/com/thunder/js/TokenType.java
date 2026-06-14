@@ -1,0 +1,33 @@
+package com.thunder.js;
+
+public enum TokenType {
+    // Literals
+    NUMBER, STRING, BOOLEAN, NULL, UNDEFINED,
+
+    // Identifiers & Keywords
+    IDENTIFIER,
+    LET, CONST, VAR, FUNCTION, RETURN,
+    IF, ELSE, WHILE, FOR, DO,
+    SWITCH, CASE, DEFAULT, BREAK, CONTINUE,
+    NEW, THIS, TYPEOF, INSTANCEOF, IN, OF,
+    TRUE, FALSE,
+
+    // Punctuation
+    LPAREN, RPAREN, LBRACE, RBRACE, LBRACKET, RBRACKET,
+    SEMICOLON, COMMA, DOT, COLON, QUESTION, ARROW,
+    SPREAD, // ...
+
+    // Operators
+    PLUS, MINUS, STAR, SLASH, PERCENT, POWER,
+    PLUS_ASSIGN, MINUS_ASSIGN, STAR_ASSIGN, SLASH_ASSIGN, PERCENT_ASSIGN,
+    INCREMENT, DECREMENT,
+    EQ, NEQ, STRICT_EQ, STRICT_NEQ,
+    LT, GT, LTE, GTE,
+    AND, OR, NOT,
+    BITAND, BITOR, BITXOR, BITNOT,
+    ASSIGN,
+    NULLISH, // ??
+
+    // Special
+    EOF
+}
