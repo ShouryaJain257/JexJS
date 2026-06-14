@@ -1,7 +1,7 @@
 # JexJS
 # ⚡ JexJS
 
-> A JavaScript interpreter written from scratch in pure Java — no external libraries, no Node.js, no JS engine. Just Java.
+> <font color = '#1D9BF0'>A JavaScript interpreter written from scratch in pure Java — no external libraries, no Node.js, no JS engine. Just Java.</font>
 ---
 
 ## 🏗️ Architecture
